@@ -7,7 +7,7 @@ Es una aplicacion de escritorio creada sobre Electron y Angular.
 
 La Aplicacion se encuentra disponible por el momento para Mac OS X la cual la pueden descargar desde este link:
 
-[Descargar BlazeBox.dmg](https://mega.nz/#!WQ8ESApY "Descargar BlazeBox")
+[Descargar BlazeBox.dmg](https://mega.nz/#!WQ8ESApY!BNjnRRHQHq_1a0lzq9bD2XmrBF4_xtrouXul2uwDDaY "Descargar BlazeBox")
 
 
 # Instalacion de App en modo de Desarrollo
