@@ -5,7 +5,9 @@ Es una aplicacion de escritorio creada sobre Electron y Angular.
 
 #Instalacion Archivo dmg Mac OS X
 
-La Aplicacion se encuentra disponible por el momento para Mac OS X la cual la pueden descargar desde el repositorio.
+La Aplicacion se encuentra disponible por el momento para Mac OS X la cual la pueden descargar desde este link:
+
+[Descargar BlazeBox.dmg](https://mega.nz/#!WQ8ESApY "Descargar BlazeBox")
 
 
 # Instalacion de App en modo de Desarrollo
