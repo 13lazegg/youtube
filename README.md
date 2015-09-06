@@ -23,3 +23,9 @@ Una vez descargado e instalado correcamente Node en nuestro equipo, debemos ubic
 > npm install
 
 consumiendo las dependencias necesarias del package.json del proyecto.
+
+#Ejecutar la App
+
+para ejecutar la aplicacion desde la terminal estando en la ruta del proyecto debemos correr el siguiente comando
+
+> npm start
