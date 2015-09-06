@@ -1,7 +1,23 @@
-# Visualizador de Videos de Youtube con Electron
+# Jukebox utilizando la api de Youtube
 
-Aplicacion de escritorio para Visualizar videos de Youtube para Mac OS X y Windows
+Es una aplicacion de escritorio creada sobre Electron y Angular.
+--------------------
 
-#Instalacion
+#Instalacion Archivo dmg Mac OS X
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La Aplicacion se encuentra disponible por el momento para Mac OS X la cual la pueden descargar desde el repositorio.
+
+
+# Instalacion de App en modo de Desarrollo
+==========
+
+Para su correcta instalacion se debe contar con node instalado, en el siguiente link se encuentra el mismo:
+
+  [Descargar Node.js](https://nodejs.org/en/download/ "Link a el website de Node")
+--------------------
+
+Una vez descargado e instalado correcamente Node en nuestro equipo, debemos ubicarnos en la ruta donde clonamos el proyecto de Github. y corremos el siguiente comando
+
+> npm install
+
+consumiendo las dependencias necesarias del package.json del proyecto.
